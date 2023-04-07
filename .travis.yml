@@ -1,6 +1,5 @@
 sudo: required
 
-os: "osx"
 services:
   - docker
 
